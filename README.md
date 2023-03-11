@@ -7,9 +7,6 @@
 <p align= "center">Fluttering 🕊 around with Flutter</p>
 <br/>
 
-<p align= "center">They say, there is an easy way and a hard way. The hard part is finding the easy way.🗿 </p>
-<br/>
-
 <p align= "center">Not much here for now...</p>
 <br/>
 <h3 align="center">My contacts:</h3>
