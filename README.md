@@ -4,12 +4,7 @@
 
 <h3>Who am I?</h3>
 <div align="center">
-
-Hey there! 👋 I'm M'Amine Hnioua, your friendly neighborhood mobile app wizard  <img src="https://media.giphy.com/media/XD9SIF9vDY6z9cRBTy/giphy.gif" height="30">.
-
-I craft sleek and seamless mobile experiences using the capabilities of <img src="https://static-00.iconduck.com/assets.00/flutter-icon-1651x2048-ojswpayr.png" height="22"> Flutter.
-
-Simply, I bring app ideas to life, making them dance on both the <img src="https://cdn-icons-png.flaticon.com/512/732/732208.png" height="20"> & <img src="https://cdn-icons-png.flaticon.com/512/831/831276.png" height="20">.
+A Mobile App Dev 😅
 </div> 
 
 
